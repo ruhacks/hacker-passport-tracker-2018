@@ -1,0 +1,59 @@
+body {
+  min-height: 100vh;
+  height: auto;
+}
+
+#root {
+  background: #004999;
+  min-height: 100vh;
+}
+
+#root > .columns {
+  min-height: 90vh;
+}
+
+#signin-card {
+  border-radius: 5px;
+}
+
+#sticky-sidebar {
+  position: sticky;
+  top: 0.75rem;
+}
+
+#app-sidebar {
+  background: white;
+}
+
+#app-sidebar .panel-block.is-active {
+  border-left-width: 5px;
+}
+
+#app-content {
+  background:#d8d8d8;
+}
+
+#app-content #view {
+  height: 100%;
+}
+
+#app-content #view #dashboard-messages {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#app-content #view #app-form fieldset {
+  border: 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+#app-content #view #app-form > fieldset > legend {
+  display: none;
+}
+
+#app-content #view #app-form label.radio > input[type=radio],
+#app-content #view #app-form label > input[type=checkbox]
+{
+  display: none;
+}

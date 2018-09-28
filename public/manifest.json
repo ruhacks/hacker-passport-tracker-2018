@@ -1,0 +1,15 @@
+{
+  "short_name": "RU Hacks Tracker Portal",
+  "name": "RU Hacks Tracker Portal",
+  "icons": [
+    {
+      "src": "img/logo/logo_50x50.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#004c9b",
+  "background_color": "#ffffff"
+}
