@@ -22,7 +22,7 @@
     "react-json-editor": "github:ktsuench/react-json-editor#f7139bc",
     "react-qr-scanner": "0.0.7",
     "react-redux": "^5.0.6",
-    "react-router": "3",
+    "react-router": "5",
     "react-scripts": "1.0.17",
     "reactbulma": "github:ruhacks/react-bulma#a72f7f2",
     "redux": "^3.7.2"
